@@ -1,6 +1,4 @@
----
-output: pdf_document
----
+
 #Reproducible Research - Project Assignment 1
 
 Xiukun Zhao
